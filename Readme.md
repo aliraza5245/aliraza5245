@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Ali Raza <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/aliraza5245""></h1>
   </div>
 <p align="center">
-<a href="https://github.com/aliraza5245"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Skill+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/aliraza5245"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Skill;Front+End+Developer;Backend+Developer+Php+Laravel&center=true&width=500&height=50"></a>
   </p>
 
 ### 👨‍💻 Web Development course at House of Professionals
