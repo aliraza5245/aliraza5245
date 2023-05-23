@@ -1,12 +1,12 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Wajeeh Haider <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/aliraza5245""></h1>
+    <h1> Hi there, I'm Ali Raza <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/aliraza5245""></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/aliraza5245"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p>
 
-### 👨‍💻 Skill Trainer at House of Professionals
+### 👨‍💻 Web Development course at House of Professionals
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Passionate about teaching and inspiring students; taught over 100.
@@ -20,13 +20,13 @@
   <a href="https://www.linkedin.com/in/wajeeh-haider3408/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:swajeeh03@gmail.com" target="_blank">
+  <a href="mailto:asheikh5245@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
+  <a href="https://www.instagram.com/itzrealrazi08/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+  <a href="https://www.facebook.com/Raza Mehboob" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
@@ -122,7 +122,7 @@
 
 <!-- ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/aliraza5245/aliraza5245/blob/main/github-metrics.svg" />
 </p>
 <br> -->
 
